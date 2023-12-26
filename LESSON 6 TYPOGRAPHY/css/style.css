@@ -1,0 +1,54 @@
+body{
+    padding: 25%;
+    font-size: 2rem;
+}
+
+input,button{
+    font: inherit;
+}
+
+ p{
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    text-decoration: none;
+ }
+
+
+ p{
+  /* text-transform: capitalize; */
+  /* text-transform: lowercase; */
+  /* text-transform: uppercase; */
+  text-transform: none;
+ }
+
+p{
+    /* text-align: right; */
+    /* text-align: left; */
+    /* text-align: justify; */
+}
+
+p{
+    /* text-indent: 2em; */
+}
+
+p{
+    /* line-height: 1.5; */
+}
+
+p{
+    /* letter-spacing: 0.1em; */
+}
+
+p{
+    /* word-spacing: 0.5em; */
+}
+
+p{
+    /* font-weight: bolder; */
+    /* font-weight: lighter; */
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
